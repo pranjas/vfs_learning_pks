@@ -1,0 +1,10 @@
+The purpose of this repository to understand the inner workings of Linux VFS
+and using hands-on creation of a block device based simple file system. I hope
+to demonstrate how to use 
+
+a) Networking within kernel.
+b) Pagecache and Buffer heads.
+c) Using Journalling via jdb2.
+
+This is going to be a very simple File system mostly to understand the stuff
+that goes on underneath. I'll continue to better this as time permits.
